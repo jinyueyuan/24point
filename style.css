@@ -1,0 +1,37 @@
+#title{
+    height:100px;
+    width:300px;
+    border:1px solid #000000;
+    margin-left:500px;
+    margin-top:50px;
+}
+#tolpicture{
+    width:850px;
+    height:200px;
+    margin-left:250px;
+    margin-top:25px;
+}
+.pic1{
+    width:200px;
+    height:200px;
+    margin-right:10px;
+    float:left;
+}
+#content{
+    width:500px;
+    height:350px;
+    border:1px solid #000000;
+    margin-left:400px;
+    margin-top:20px;
+    float:left;
+}
+#answer{
+    width:300px;
+    height:250px;
+    margin-top:20px;
+
+}
+#an{
+    height:100%;
+    width:100%;
+}
